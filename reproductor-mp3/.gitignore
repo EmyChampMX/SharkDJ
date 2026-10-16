@@ -1,0 +1,9 @@
+target/
+out/
+*.class
+.idea/
+*.iml
+.vscode/
+.DS_Store
+# MP3 de prueba y archivos temporales (no subir música al repo)
+mp3_prueba/*.mp3
