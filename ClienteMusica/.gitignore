@@ -1,0 +1,9 @@
+*.class
+out/
+bin/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+mp3_servidor/**/*.mp3
+mp3_servidor/*.mp3
